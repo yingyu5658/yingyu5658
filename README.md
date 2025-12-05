@@ -4,5 +4,3 @@
 - [Email](mailto:i@glowisle.me/)
 - [Github](https://github.com/yingyu5658/)
 - [豆瓣](https://www.douban.com/people/285216932/)
-
-<a href="https://github.com/aaronpk" rel="me">github.com/aaronpk</a>
