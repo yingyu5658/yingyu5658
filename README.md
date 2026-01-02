@@ -27,7 +27,14 @@ Here are the key technologies I frequently work with:
 
 ---
 
-### Weekly Development Breakdown	
+### Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
