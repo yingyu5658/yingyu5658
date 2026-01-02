@@ -10,6 +10,8 @@ Building things for the web, systems, and fun.
 [![Telegram Channel](https://img.shields.io/badge/Channel-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/glowisle)
 [![Email](https://img.shields.io/badge/Email-i@glowisle.me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:i@glowisle.me)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=yingyu5658.readme)
+
 </div>
 
 ---
@@ -22,6 +24,9 @@ Here are the key technologies I frequently work with:
 
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+
+### Top Languages
+
 
 ---
 
