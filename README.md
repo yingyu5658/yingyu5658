@@ -30,7 +30,7 @@ Here are the key technologies I frequently work with:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2026 - To: 01 January 2026
+From: 25 December 2025 - To: 01 January 2026
 
 No activity tracked
 ```
