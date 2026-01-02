@@ -16,7 +16,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: "waka"
           COMMIT_MESSAGE: "chore: update coding stats"
-          START_DATE: "2026-01-01" # 或更早，例如 "2025-12-01"
-          END_DATE: "2026-01-02" 
-          SHOW_TITLE: true
+          TIME_RANGE: "last_7_days"
+          SHOW_TITLE: false
           LANG_COUNT: 5
