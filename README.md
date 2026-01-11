@@ -30,11 +30,11 @@ Here are the key technologies I frequently work with:
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon](https://www.glowisle.me/mastodon/)
+- [回声周刊 Vol.5：「相关」和「有关」的滥用](https://www.glowisle.me/posts/weekly/5/)
 - [回声周刊 Vol.4：没有什么花朵是为了凋零而绽放的吧？](https://www.glowisle.me/posts/weekly/4/)
 - [扒开「文化自信」和历史仇恨的底裤，谈谈对日本文学的偏见](https://www.glowisle.me/posts/beyond-prejudice-japanese-literature/)
 - [我在作文稿纸上一个字也写不出来](https://www.glowisle.me/posts/chewing-nothing/)
-- [回声周刊 Vol.3：为不折腾而折腾，才是折腾的终极目标](https://www.glowisle.me/posts/weekly/3/)
-- [多数时间可以被约分的一年](https://www.glowisle.me/posts/2025-annual-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
