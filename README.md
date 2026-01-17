@@ -30,11 +30,11 @@ Here are the key technologies I frequently work with:
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [读《一个人的好天气》](https://www.glowisle.me/posts/hitori-biyori/)
 - [哲学之癫](https://www.glowisle.me/posts/pseudo-philosopher/)
 - [回声周刊 Vol.5：「相关」和「有关」的滥用](https://www.glowisle.me/posts/weekly/5/)
 - [回声周刊 Vol.4：没有什么花朵是为了凋零而绽放的吧？](https://www.glowisle.me/posts/weekly/4/)
 - [扒开「文化自信」和历史仇恨的底裤，谈谈对日本文学的偏见](https://www.glowisle.me/posts/beyond-prejudice-japanese-literature/)
-- [我在作文稿纸上一个字也写不出来](https://www.glowisle.me/posts/chewing-nothing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
