@@ -32,11 +32,11 @@ Here are the key technologies I frequently work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   30.23 %
-Go           3 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   27.78 %
-Other        2 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-C            1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Org          44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Markdown     4 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   36.75 %
+Go           3 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+C            1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Other        1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Org          44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 ```
 
 <!--END_SECTION:waka-->
