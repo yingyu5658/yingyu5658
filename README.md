@@ -20,11 +20,11 @@ Here are the key technologies I frequently work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Emacs Lisp   5 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
-C            4 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-Markdown     3 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
-Org          3 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-Git          1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Emacs Lisp   5 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.49 %
+Markdown     4 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+C            4 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
+Git          1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Org          43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
