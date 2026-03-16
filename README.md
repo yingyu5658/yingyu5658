@@ -20,11 +20,11 @@ Here are the key technologies I frequently work with:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         3 hrs 2 mins          █████████░░░░░░░░░░░░░░░░   36.40 %
-Markdown     2 hrs 48 mins         ████████▒░░░░░░░░░░░░░░░░   33.65 %
-Other        1 hr 46 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-Scheme       14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Org          9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+HTML         3 hrs 2 mins          ████████▒░░░░░░░░░░░░░░░░   33.11 %
+Markdown     2 hrs 53 mins         ████████░░░░░░░░░░░░░░░░░   31.54 %
+Other        1 hr 45 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Emacs Lisp   1 hr 2 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Scheme       14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
